@@ -5,6 +5,10 @@
 *.dat
 *.npz
 *.ipynb_checkpoints
+*.jpg
+*.png
+*.svg
+*.h5
 tmp/
 
 # Compiled source #
